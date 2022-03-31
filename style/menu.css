@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    background-color: #55d7b1;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
+ul{
+    text-align: center;
+}
+li a{
+    font-size: 25px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background-color: white;
+    color: #55d7b1;
+    border-radius: 50%;
+}
+.footer{
+    background-color: #55d7b1;
+    color: white;
+    font-size: 25px;
+    text-align: right;
+    margin-top: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,3 @@
+#55d7b1
+#bedfe6
+el video usa panel principal pero yo uso pagina_inicio.php
